@@ -18,4 +18,4 @@ Check it out live: https://tranquil-yeot-ecca8d.netlify.app
 
 #### Credits
 
-This shopping list application was created as part of the JavaScript Course by Brad Traversy. Brad Traversy is the author and instructor of the course, which provides comprehensive training on JavaScript development.
+This shopping list application was created as part of the JavaScript Course by Brad Traversy. Brad Traversy is the author and instructor of the course, who provides comprehensive training on JavaScript development.
