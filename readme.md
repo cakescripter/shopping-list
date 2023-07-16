@@ -4,7 +4,7 @@ This repository contains a simple shopping list application built with Vanilla J
 
 The code demonstrates the usage of event listeners, DOM manipulation, local storage, and various utility functions to manage the shopping list functionality. It provides a foundation for building a responsive and interactive list management application.
 
-#### Key Features:
+### Key Features:
 
 - Adding items: Users can input new items into the text field and add them to the list by clicking the "Add Item" button.
 - Removing items: Users can remove items from the list by clicking the "Remove" button next to each item.
@@ -12,8 +12,9 @@ The code demonstrates the usage of event listeners, DOM manipulation, local stor
 - Filtering items: Users can filter the displayed items by entering a search query in the filter input field, which dynamically hides items that do not match the search criteria.
 - Persistence: The application stores the added items in the browser's local storage, allowing the list to persist even after page reloads.
 
-Check it out live: https://tranquil-yeot-ecca8d.netlify.app
+### Demo:
 
+Check it out live: [Shopping List App](https://tranquil-yeot-ecca8d.netlify.app)
 ![Screen projektu](images/screen.png)
 
 #### Credits
