@@ -17,6 +17,6 @@ The code demonstrates the usage of event listeners, DOM manipulation, local stor
 Check it out live: [Shopping List App](https://tranquil-yeot-ecca8d.netlify.app)
 ![Screen projektu](images/screen.png)
 
-#### Credits
+### Credits
 
 This shopping list application was created as part of the JavaScript Course by Brad Traversy. Brad Traversy is the author and instructor of the course, which provides comprehensive training on JavaScript development.
